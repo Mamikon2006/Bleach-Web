@@ -1,0 +1,146 @@
+.dzax{
+	width: 50%;
+	padding: 15px;
+}
+.aj{
+	width: 50%;
+	padding: 15px;
+}
+.content{
+	display: flex;
+}
+.nerqev{
+	display: flex;
+	justify-content: center;
+}
+.poqr{
+	width: 30%;
+}
+.nkar{
+	width: 100%;
+}
+.verev{
+	justify-content: center;
+}
+.product{
+	width: 200px;
+	border: 1px solid grey;
+	padding: 10px;
+	margin: 40px;
+}
+.product_prince{
+	color: orange;
+	font-weight: bold; 
+}
+.product_link{
+	display: inline-block;
+	border-radius: 7px;
+	margin: 5px;
+	padding: 5px;
+	color: white;
+	text-decoration: none;
+	background-color: red;
+}
+.shop{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+.main{
+	margin: auto;
+	width: 1500px; 
+}
+.link1{
+	display: inline-block;
+	border-radius: 7px;
+	margin: 5px;
+	padding: 5px;
+	color: white;
+	text-decoration: none;
+	background-color: blue;
+}
+.link2{
+	display: inline-block;
+	border-radius: 7px;
+	margin: 5px;
+	padding: 5px;
+	color: white;
+	text-decoration: none;
+	background-color: blue;
+}
+.input{
+	margin: 10px;
+}
+.header{
+	display: flex;
+	background-color: black;
+	justify-content: space-between;
+
+
+}
+
+.menu{
+	display: flex;
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+.menu_link{
+
+	font-family:'Tahonma';
+	text-decoration:none;
+	display: inline-block;
+	padding: 10px; 
+	color:white;
+}
+.menu_link:hover{
+	background-color: red;
+}
+.logo{
+	width: 70px;
+}
+.footer{
+	display: flex;
+	background-color: black;
+	justify-content: space-between;
+}
+.menu_text{
+	font-family:'Tahonma';
+	display: inline-block;
+	padding: 5px; 
+	color:white;
+}
+.logo1{
+	padding: 5px;
+	width: 50px;
+}
+.text1{
+	display: inline-block;
+	padding: 200px;
+}
+.vidio{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+.dzax1{
+	width: 45%;
+	padding: 15px;
+}
+.aj{
+	width: 45%;
+	padding: 15px;
+}
+table, th, td {
+    border: 1px solid black;
+}
+
+
+
+
+
+
+
+
+
+
