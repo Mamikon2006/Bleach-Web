@@ -11,27 +11,44 @@
 		<div class="content">
 			
 			<div class="dzax">
-				<img class="nkar" src="https://upload.wikimedia.org/wikipedia/en/1/1e/IchigoKurosakiBleach.jpg">
-				<img class="nkar" src="https://i.pinimg.com/736x/b1/d0/0e/b1d00ecf38715ce25959e5964461f8d8.jpg">
-				<img class="nkar" src="https://www.writeups.org/wp-content/uploads/Yasutora-Chad-Sado-Bleach-Shonen-Jump.jpg">
+				<img class="nkar" src="https://desu.shikimori.one/uploads/poster/people/1880/main_alt-91d887d2e44bcab2f575d8899f862d67.jpeg">
+				<img class="nkar" src="https://desu.shikimori.one/uploads/poster/people/10277/main_alt-9b2b3e8596e89a2994f465a478b3a8c4.jpeg">
+				<img class="nkar" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5WP5bbwfWUQ6VzsZth51o-YUUQhlREg6xUg&s">
 			</div>
 			<div class="aj">
 				<h1 class="vernagir">
 					Main characters
 				</h1>
 				<p class="text1">
-					Ichigo Kurosaki (Japanese: 黒崎 一護, Hepburn: Kurosaki Ichigo) is a fictional character in the Bleach manga series and its adaptations created by Tite Kubo. He is the main protagonist of the series, who receives Soul Reaper powers after meeting Rukia Kuchiki, a Soul Reaper assigned to patrol around the fictional city of Karakura Town. These powers come at the cost of her own, and as a result, he concedes to work as her stand-in, fighting to protect people from evil spirits called Hollows and sending good spirits, wholes, to a dimension known as the Soul Society. Ichigo appears in other media after the manga series, including the anime television series, four anime films, two original video animations, rock musicals, several video games, light novels and the 2018 live-action film.</p>
+				Kubo was born on June 26, 1977, in Hiroshima Prefecture,[4] where his father worked as a town council member. In elementary school, he had already decided to become a manga artist,[5] due to reading the manga Saint Seiya. His first one-shot was "Ultra Unholy Hearted Machine", written for the Weekly Shōnen Jump in 1996.[2] He wrote his first manga Zombiepowder, which was also published in Weekly Shōnen Jump in 1999. It ran a short 27 chapters before being canceled in 2000. According to the author's commentary, Kubo was in a state of severe emotional trauma when he wrote it.[6] Kubo later stated that he was not used to the magazine weekly serialization and used to pay more attention to his editor's comments rather than his own ideas.
+				His next series, Bleach, about Ichigo Kurosaki, a high school student who becomes a shinigami and fights creatures known as Hollows, began running in the same magazine in 2001. Kubo initially expected the series' serialization to continue no longer than five years.[2] The original story concept was submitted to Weekly Shōnen Jump shortly after the cancellation of Zombiepowder, but was rejected. Akira Toriyama, creator of Dragon Ball, saw the story and wrote a letter of encouragement to Kubo.[2] Bleach ran for 15 years of serialization and reached over 698 chapters from 2001 to 2016. Additionally, an anime adaptation of the series was broadcast in TV Tokyo for 8 years from 2004 to 2012, spanning over 366 episodes. The manga was named a winner of the Shogakukan Manga Award for its category in 2004.[8] Kubo and Makoto Matsubara have co-authored two novelizations of the Bleach series, which were published by Shueisha under their Jump Books label.</p>
 
-				<p class="text1">Orihime Inoue[Jp. 1] is a fictional character and in the Bleach manga series and its anime adaptations created by Tite Kubo. She is one of Ichigo Kurosaki's friends, and later his wife. Like the many other characters in the series, she quickly develops spiritual powers of her own after Ichigo becomes a Soul Reaper. Throughout the series, Orihime learns about Ichigo's duty as a Soul Reaper and accompanies him when they go to the Soul Society to save Rukia Kuchiki.
-
-                Besides the manga series, Orihime appears in other media, including the anime series, anime films, video games and rock musicals. She has been fairly popular among readers of the manga since her introduction, having ranked within the top 10 or the top 20 in all of the characters popularity polls of the series. Additionally, various pieces of merchandising have been developed based on her appearance such as figurines and key chains. Publications from manga, anime and other media have also commented on her character with most praising her traits and development.
-
-                 In the anime series adaptation of Bleach, Orihime is voiced by Yuki Matsuoka in Japanese. In the English adaptations, she is voiced by Stephanie Sheh. In the 2018 live action film Bleach, she is portrayed by Japanese actress and singer Erina Mano.
-                </p>
+				<p class="text1">Noriyuki Abe (阿部 記之 (formerly 阿部 紀之), Abe Noriyuki, born July 19, 1961) is a Japanese anime storyboard artist, sound director and director. He worked at Studio Pierrot on anime series, such as Yu Yu Hakusho, Ninku, Flame of Recca, Great Teacher Onizuka, Bleach and Boruto. He won the Animage Anime Grand Prix award in 1993 and 1994.
+                Norakuro-kun (1987 TV series) – Episode directo
+Musashi, the Samurai Lord (1990 TV series) – Storyboard, episode directo
+Ore wa Chokkaku (1991 TV series) – Episode directo
+Yu Yu Hakusho: Ghost Files (1992 TV series) – Directo
+Yu Yu Hakusho: The Movie (1993 film) – Directo
+Yu Yu Hakusho the Movie: Poltergeist Report (1994 film) – Storyboard, supervisio
+Ninku (1995 TV series) – Directo
+Ninku: The Movie (1995 film) – Directo
+Midori no Makibaō (1996 TV series) – Directo
+Flame of Recca (1997 TV series) – Director
+Trigun (1998 TV series) – Storyboard (ep. 15)
+Saber Marionette J to X (1998 TV series) – Storyboard (ep. 16)
+Hunter × Hunter (1998 film) – Director
+Chiisana Kyojin Microman (1999 TV series) – Series director
+Great Teacher Onizuka (1999 TV series) – Director
+Banner of the Stars (2000 TV series) – Storyboard (ep. 7)
+Ghost Stories (2000 TV series) – Director
+Super Gals! Kotobuki Ran (2001 TV series) – Storyboard (eps. 5, 8)
+Tokyo Mew Mew (2002 TV series) – Director
+Detective School Q (2003 TV series) – Director
+Bleach (2004 TV series) – Director
+Bleach: Memories in the Rain (2004 special) – Director</p>
 				<p class="text1">
-					Chad is a tall teenager of Japanese and Mexican descent, and appears to be older than he really is. He has a tattoo on his left shoulder that consists of a winged heart and a snake, with a ribbon that reads 'Amore e Morte' ("love and death" in Italian) and has a very big mouth. During his early years, Chad was extremely violent. Exploiting his advantage in size, he intimidated and hit any child who annoyed him. Oscar Joaquin de la Rosa, his grandfather, 'Abuelo' inspired Chad to be gentle. Afterwards, Oscar gave Chad an old Mexican coin, which he treasured after Oscar's death.[5] Since then, Chad vowed that he would never fight unless it was to protect others, as instructed — even if his own life was in danger.[6] However, because of his constant involvement with gangsters, Chad gained a reputation as a ruthless gangster himself.[5]
-
-                    Chad is a quiet person with a very kind heart and is sometimes the subject of jokes or bullies because he never fights back, against ordinary humans, or often hollows and Soul Reapers until necessary. Nonetheless, he is treated equally within his group of friends in Karakura (Ichigo, Keigo and Mizuiro). As he and Ichigo have a longtime relationship, having met each other while fighting off a group of bullies. Since then both decided to fight together, Chad becomes determined to train and get stronger in order to aid Ichigo in his fights as Ichigo and his enemies start becoming much stronger than Chad along the series.[5] Chad also has a weakness for cute things, like small animals and Kon, and is one of the few characters that actually treats Kon with any dignity but for the most part ignores him. In a recent omake, when Orihime is trying to catch Nozomi with a plush cat, she captures Chad instead, who begins to cuddle with it.[7] Besides his physical strength being able to lift 400 kg with ease, Chad has also shown to be very intelligent; he ranked 11th out of 322 in school, while Ichigo is ranked 23rd.[8]
+					Shirō Sagisu (鷺巣 詩郎, Sagisu Shirō, born August 29, 1957)[5] is a Japanese composer, arranger and music producer. With a career spanning over 40 years (beginning in the late 1970s), he is best known for his works as a record producer for acts including various choir members Mike Wyzgowski, Misia, Satoshi Tomiie, and Ken Hirai. Sagisu has also worked as a film composer for several anime and films, being well known for his collaborations with Gainax, especially in the soundtrack of Hideaki Anno's series Neon Genesis Evangelion.
+					Sagisu's career in music started in 1977, when he became one of the members of jazz fusion band T-Square. He made three albums with the group before becoming a full-time composer and writer in 1979. By 1997, he had composed over 2,000 songs, advertising jingles and TV and movie pieces.[6] Sagisu won the Tokyo Anime Award for "Best Music" in 2010 for Evangelion: 2.0 You Can (Not) Advance.[7] Sagisu arranged a rendition of the Japanese national anthem, "Kimigayo", performed at the 2020 Summer Olympics opening ceremony by Misia.
 				</p>
 				<a href="https://en.wikipedia.org/wiki/Bleach_(TV_series)" class="link1">View more</a>
 				<a href="https://en.wikipedia.org/wiki/Bleach_(manga)" class="link2">View more</a>

@@ -134,7 +134,14 @@
 table, th, td {
     border: 1px solid black;
 }
-
+.logo_box {
+    display: flex;
+    align-items: center;
+}
+.menu_box {
+    display: flex;
+	align-items: center
+}
 
 
 

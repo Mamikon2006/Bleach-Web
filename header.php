@@ -1,7 +1,7 @@
 
 <div class="header">
 			<div class="logo_box">
-				<img class="logo" src="https://mbsaen.oasgames.com/assets/img/logo.8ceb75da.png">
+			<p style= "color: #ff0000">BLEACH</p>
 			</div>
 			<div class="menu_box">
 				<ul class="menu">
